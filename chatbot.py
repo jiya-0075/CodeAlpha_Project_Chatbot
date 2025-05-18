@@ -1,5 +1,5 @@
 def chatbot():
-    print("🤖 Hello! I am AlphaBot. How can I help you today?")
+    print("Hello! I am AlphaBot. How can I help you today?")
     
     while True:
         user_input = input("You: ").lower()
