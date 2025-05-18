@@ -1,0 +1,7 @@
+🤖 Hello! I am AlphaBot. How can I help you today?
+You: i wanna submit my work
+AlphaBot: I'm sorry, I didn't understand that.
+You: hello
+AlphaBot: Hello! 😊
+You: bye
+AlphaBot: Goodbye! Have a great day!
